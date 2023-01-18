@@ -12,7 +12,7 @@ class Main(tk.Tk):
         self.interval = ("1 sec", "2 secs", "5 secs", "10 secs", "30 secs (recommended)", "1 min", "2 mins", "5 mins", "10 mins", "30 mins") #time interval
         self.application = ("Visual Studio Code", "VSCodium", "Visual Studio", "PyCharm", "Notepad++", "Use universal keybinds / Others") #basically the most useless thing in this code
         self.keybindset0 = ("Ctrl+S", "Other specified") #universal keybind
-        self.keybindset1 = ("Ctrl+S", "Other specified") #windows keybind for vscode
+        self.keybindset1 = ("Ctrl+S", "Other specified") #keybind for vscode
         self.keybindset2 = ("Ctrl+S", "Ctrl+Shift+S", "Other specified") #keybind for visual studio
         #i wonder why theres no 3?
         self.keybindset4 = ("Ctrl+S", "Ctrl+Shift+S", "Ctrl+Alt+S", "Other specified") #keybind for notepad++
