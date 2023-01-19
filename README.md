@@ -7,3 +7,4 @@ Auto saver to prevent unsaved code in case you forgot to save it. Can also be us
 3. can also do other single keys (e.g. h)
 4. red text on the top is being used for debugging
 5. i have no idea what i coded inside this thing so please don't complain about the unreadable codes because idek what i wrote
+6. **tkinter freezing after pressing start button is normal**
